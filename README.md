@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssovely-98&show_icons=true&theme=radical)
 
+✉SNS✉
 <a href="https://www.instagram.com/imso._.hee/" target="_blank"><img src="https://img.shields.io/badge/imso._.hee-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
